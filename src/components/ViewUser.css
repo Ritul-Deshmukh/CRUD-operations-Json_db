@@ -1,0 +1,16 @@
+.button1 {
+    background-color: darkcyan;
+    margin-top: 10px;
+    margin-left: 470px;
+    align-items: center;
+}
+
+.number {
+    font-style: italic;
+    color: darkcyan;
+}
+
+.rec {
+    align-items: center;
+    margin-left: 250px;
+}

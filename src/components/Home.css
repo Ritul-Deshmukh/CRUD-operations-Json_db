@@ -1,0 +1,23 @@
+.buttoncss {
+    border-radius: 12px;
+    background-color: #e7e7e7; 
+    color: black;
+    margin-bottom: 10px;
+}
+
+
+.butt1 {
+    background-color: rgb(209, 240, 248);
+}
+
+.butt2 {
+    background-color: rgb(246, 251, 252);
+}
+
+.butt3 {
+    background-color: rgb(250, 182, 195);
+}
+
+.colo {
+    background-color: rgb(217, 233, 221);
+}
