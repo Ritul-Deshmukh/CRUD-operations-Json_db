@@ -9,6 +9,7 @@ git clone https://github.com/Ritul-Deshmukh/CRUD-operations-Json_db.git
 ## Install Dependencies
 
 cd assign-one
+
 npm install
 
 ## Run the application 
