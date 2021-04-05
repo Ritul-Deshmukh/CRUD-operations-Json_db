@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Clone the Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+git clone 
 
 ## Available Scripts
 
